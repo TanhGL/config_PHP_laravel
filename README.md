@@ -21,4 +21,4 @@
  * vào route/web.php 
 => route::get ('/', function (){
    return view ('welcome');
-   };
+   });
