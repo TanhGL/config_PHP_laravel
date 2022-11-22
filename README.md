@@ -9,6 +9,6 @@ all config
 - 2: cd C:\xampp\htdocs\composer create-project laravel/laravel tên_thư_mục
 # Second: 
 - Sau khi tạo thành công: 
-    chạy: 1> localhost/muc/public
+    chạy: 1> localhost/muc/public  <br>
           2> 127.0.0.1/...
           
