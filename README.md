@@ -1,9 +1,8 @@
 # config_PHP_laravel
 
-all config
-#LƯU Ý: php artisan serve
+# LƯU Ý: php artisan serve
 
-#Lưu ý: điều kiện phải cần 
+# Lưu ý: điều kiện phải cần 
 
 - Xampp
 - Composer
